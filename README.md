@@ -1,6 +1,5 @@
 # KaliNoobSetUp
-"**************************************************"
-"**************************************************"
+
 For KALI LINUX Beginners
 
 Simple script to setup your Kali Environment
@@ -39,6 +38,4 @@ Simple script to setup your Kali Environment
 	Support Our Channel
 
 	https://www.youtube.com/c/ExploitEverything
-  
-"**************************************************"
-"**************************************************"
+
